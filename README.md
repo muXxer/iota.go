@@ -11,12 +11,12 @@
          alt="Developer documentation portal">
       </p>
 <p align="center">
-	<a href="https://godoc.org/github.com/iotaledger/iota.go" style="text-decoration:none;"><img src="https://godoc.org/github.com/iotaledger/iota.go?status.svg" alt="Auto-generated docs"></a>
+	<a href="https://godoc.org/github.com/muxxer/iota.go" style="text-decoration:none;"><img src="https://godoc.org/github.com/muxxer/iota.go?status.svg" alt="Auto-generated docs"></a>
 	<a href="https://discord.iota.org/" style="text-decoration:none;"><img src="https://img.shields.io/badge/Discord-9cf.svg?logo=discord" alt="Discord"></a>
     <a href="https://iota.stackexchange.com/" style="text-decoration:none;"><img src="https://img.shields.io/badge/StackExchange-9cf.svg?logo=stackexchange" alt="StackExchange"></a>
     <a href="https://raw.githubusercontent.com/iotaledger/iota.go/master/LICENSE" style="text-decoration:none;"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT license"></a>
     <a href="https://docs.iota.org/docs/node-software/0.1/iri/references/api-reference" style="text-decoration:none;"><img src="https://img.shields.io/badge/Node%20API%20coverage-17/18%20commands-green.svg" alt="Supported IRI API endpoints"></a>
-    <a href="https://goreportcard.com/report/github.com/iotaledger/iota.go" style="text-decoration:none;"><img src="https://goreportcard.com/badge/github.com/iotaledger/iota.go" alt="Code quality"></a>
+    <a href="https://goreportcard.com/report/github.com/muxxer/iota.go" style="text-decoration:none;"><img src="https://goreportcard.com/badge/github.com/muxxer/iota.go" alt="Code quality"></a>
     <a href="https://travis-ci.org/iotaledger/iota.go" style="text-decoration:none;"><img src="https://travis-ci.org/iotaledger/iota.go.svg?branch=master" alt="Build status"></a>
 </p>
       
@@ -42,7 +42,7 @@ This is the **official** Go client library, which allows you to do the following
 * Generate addresses
 
 This is beta software, so there may be performance and stability issues.
-Please report any issues in our [issue tracker](https://github.com/iotaledger/iota.go/issues/new).
+Please report any issues in our [issue tracker](https://github.com/muxxer/iota.go/issues/new).
 
 ## Prerequisites
 
@@ -64,7 +64,7 @@ To download the IOTA Go client library and its dependencies, do the following:
 2. Download the library:
 
 	```bash
-	$ go get github.com/iotaledger/iota.go/api
+	$ go get github.com/muxxer/iota.go/api
 	```
 
 This command downloads the latest version of the IOTA Go client library and writes the version into
@@ -81,7 +81,7 @@ An extended guide can be found on our [documentation portal](https://docs.iota.o
 	package main
 
 	import (
-	    . "github.com/iotaledger/iota.go/api"
+	    . "github.com/muxxer/iota.go/api"
 	    "fmt"
 	)
 
@@ -241,7 +241,7 @@ you can [read the documentation](https://onsi.github.io/ginkgo/).
 	SUCCESS! -- 11 Passed | 0 Failed | 0 Pending | 0 Skipped
 	--- PASS: TestAddress (0.26s)
 	PASS
-	ok  	github.com/iotaledger/iota.go/address	0.264s
+	ok  	github.com/muxxer/iota.go/address	0.264s
 	```
 
 ### Writing documentation and example code

@@ -1,11 +1,11 @@
 package gocks
 
 import (
-	. "github.com/iotaledger/iota.go/api"
-	. "github.com/iotaledger/iota.go/api/integration/samples"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/transaction"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/muxxer/iota.go/api"
+	. "github.com/muxxer/iota.go/api/integration/samples"
+	"github.com/muxxer/iota.go/bundle"
+	"github.com/muxxer/iota.go/transaction"
+	. "github.com/muxxer/iota.go/trinary"
 	"gopkg.in/h2non/gock.v1"
 	"time"
 )

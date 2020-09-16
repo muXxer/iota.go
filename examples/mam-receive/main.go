@@ -8,8 +8,8 @@ import (
 
 	"github.com/simia-tech/env"
 
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/mam/v1"
+	"github.com/muxxer/iota.go/api"
+	"github.com/muxxer/iota.go/mam/v1"
 )
 
 var (

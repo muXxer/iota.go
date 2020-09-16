@@ -2,8 +2,8 @@ package _examples
 
 import (
 	"fmt"
-	"github.com/iotaledger/iota.go/account/store"
-	"github.com/iotaledger/iota.go/account/store/inmemory"
+	"github.com/muxxer/iota.go/account/store"
+	"github.com/muxxer/iota.go/account/store/inmemory"
 	"log"
 )
 

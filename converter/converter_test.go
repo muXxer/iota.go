@@ -1,7 +1,7 @@
 package converter_test
 
 import (
-	. "github.com/iotaledger/iota.go/converter"
+	. "github.com/muxxer/iota.go/converter"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

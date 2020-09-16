@@ -1,7 +1,7 @@
 package gocks
 
 import (
-	. "github.com/iotaledger/iota.go/api"
+	. "github.com/muxxer/iota.go/api"
 	"gopkg.in/h2non/gock.v1"
 )
 

@@ -2,10 +2,10 @@ package transaction_test
 
 import (
 	"encoding/json"
-	. "github.com/iotaledger/iota.go/api/integration/samples"
-	"github.com/iotaledger/iota.go/bundle"
-	. "github.com/iotaledger/iota.go/transaction"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/muxxer/iota.go/api/integration/samples"
+	"github.com/muxxer/iota.go/bundle"
+	. "github.com/muxxer/iota.go/transaction"
+	. "github.com/muxxer/iota.go/trinary"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"strings"

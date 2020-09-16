@@ -6,12 +6,12 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/iotaledger/iota.go/address"
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/pow"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/address"
+	"github.com/muxxer/iota.go/api"
+	"github.com/muxxer/iota.go/bundle"
+	"github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/pow"
+	"github.com/muxxer/iota.go/trinary"
 )
 
 const endpoint = "https://example-iri-node.io:14265"

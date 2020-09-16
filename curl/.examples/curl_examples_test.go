@@ -3,8 +3,8 @@ package curl_examples_test
 import (
 	"fmt"
 
-	"github.com/iotaledger/iota.go/curl"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/curl"
+	"github.com/muxxer/iota.go/trinary"
 )
 
 // i: rounds: The optional CurlRounds for hashing.

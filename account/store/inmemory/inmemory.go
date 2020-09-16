@@ -2,9 +2,9 @@ package inmemory
 
 import (
 	"encoding/json"
-	"github.com/iotaledger/iota.go/account/deposit"
-	. "github.com/iotaledger/iota.go/account/store"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/account/deposit"
+	. "github.com/muxxer/iota.go/account/store"
+	"github.com/muxxer/iota.go/trinary"
 	"sync"
 	"time"
 )

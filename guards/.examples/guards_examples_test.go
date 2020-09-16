@@ -2,7 +2,7 @@ package guards_examples_test
 
 import (
 	"fmt"
-	"github.com/iotaledger/iota.go/guards"
+	"github.com/muxxer/iota.go/guards"
 )
 
 // i req: trytes, The Trytes to check.

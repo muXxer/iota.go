@@ -1,6 +1,6 @@
 package oracle
 
-import "github.com/iotaledger/iota.go/account/deposit"
+import "github.com/muxxer/iota.go/account/deposit"
 
 // SendOracle tells whether it makes sense to send a transaction or not
 // by using its sources to make a decision.

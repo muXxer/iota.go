@@ -1,11 +1,11 @@
 package mam
 
 import (
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/converter"
-	"github.com/iotaledger/iota.go/transaction"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/api"
+	"github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/converter"
+	"github.com/muxxer/iota.go/transaction"
+	"github.com/muxxer/iota.go/trinary"
 )
 
 // Receiver implements a receiver for MAM-Messages.

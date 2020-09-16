@@ -3,11 +3,11 @@ package key_test
 import (
 	"encoding/hex"
 
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/kerl"
-	"github.com/iotaledger/iota.go/signing/key"
-	sponge "github.com/iotaledger/iota.go/signing/utils"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/kerl"
+	"github.com/muxxer/iota.go/signing/key"
+	sponge "github.com/muxxer/iota.go/signing/utils"
+	. "github.com/muxxer/iota.go/trinary"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/ginkgo/extensions/table"

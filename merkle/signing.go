@@ -3,14 +3,14 @@ package merkle
 import (
 	"math/bits"
 
-	"github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/guards"
-	"github.com/iotaledger/iota.go/kerl"
-	"github.com/iotaledger/iota.go/signing"
-	sponge "github.com/iotaledger/iota.go/signing/utils"
-	"github.com/iotaledger/iota.go/trinary"
-	. "github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/consts"
+	. "github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/guards"
+	"github.com/muxxer/iota.go/kerl"
+	"github.com/muxxer/iota.go/signing"
+	sponge "github.com/muxxer/iota.go/signing/utils"
+	"github.com/muxxer/iota.go/trinary"
+	. "github.com/muxxer/iota.go/trinary"
 )
 
 // the default SpongeFunction creator

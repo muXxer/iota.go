@@ -4,8 +4,8 @@
 package kerl
 
 import (
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/kerl/bigint"
+	. "github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/kerl/bigint"
 )
 
 func uint32ToTryteValues(cs []uint32, vs []int8) {

@@ -7,10 +7,10 @@ import (
 
 	"github.com/simia-tech/env"
 
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/mam/v1"
-	"github.com/iotaledger/iota.go/pow"
+	"github.com/muxxer/iota.go/api"
+	"github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/mam/v1"
+	"github.com/muxxer/iota.go/pow"
 )
 
 var (

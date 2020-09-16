@@ -1,24 +1,24 @@
 package account_test
 
 import (
-	"github.com/iotaledger/iota.go/account/builder"
-	"github.com/iotaledger/iota.go/account/deposit"
-	"github.com/iotaledger/iota.go/account/event"
-	"github.com/iotaledger/iota.go/account/event/listener"
-	"github.com/iotaledger/iota.go/account/plugins/transfer/poller"
-	"github.com/iotaledger/iota.go/account/store/inmemory"
-	. "github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/transaction"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/account/builder"
+	"github.com/muxxer/iota.go/account/deposit"
+	"github.com/muxxer/iota.go/account/event"
+	"github.com/muxxer/iota.go/account/event/listener"
+	"github.com/muxxer/iota.go/account/plugins/transfer/poller"
+	"github.com/muxxer/iota.go/account/store/inmemory"
+	. "github.com/muxxer/iota.go/api"
+	"github.com/muxxer/iota.go/bundle"
+	"github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/transaction"
+	"github.com/muxxer/iota.go/trinary"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"gopkg.in/h2non/gock.v1"
 	"strings"
 	"time"
 
-	"github.com/iotaledger/iota.go/account"
+	"github.com/muxxer/iota.go/account"
 )
 
 const seed = "BXY9DNFAJKY9UPRTP9AQFQKESGLBDXBQHIXSFDDBLIJDXSKLBYFJ9XPZ9YSAGFVXQHBODMNFLNCMAJHYH"

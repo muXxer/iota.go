@@ -2,8 +2,8 @@
 package api
 
 import (
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/pow"
+	. "github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/pow"
 )
 
 // A Provider is able to send API commands.

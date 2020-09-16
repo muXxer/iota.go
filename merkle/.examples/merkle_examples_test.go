@@ -3,9 +3,9 @@ package merkle_examples_test
 import (
 	"fmt"
 
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/merkle"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/merkle"
+	"github.com/muxxer/iota.go/trinary"
 )
 
 // i req: seed, The seed from which the Merkle tree was derived.

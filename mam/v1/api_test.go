@@ -3,10 +3,10 @@ package mam_test
 import (
 	"github.com/pkg/errors"
 
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/transaction"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/api"
+	"github.com/muxxer/iota.go/bundle"
+	"github.com/muxxer/iota.go/transaction"
+	"github.com/muxxer/iota.go/trinary"
 )
 
 type fakeAPI struct {

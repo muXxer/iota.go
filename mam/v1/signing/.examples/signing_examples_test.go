@@ -3,10 +3,10 @@ package signing_examples_test
 import (
 	"fmt"
 
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/curl"
-	"github.com/iotaledger/iota.go/mam/v1/signing"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/curl"
+	"github.com/muxxer/iota.go/mam/v1/signing"
+	"github.com/muxxer/iota.go/trinary"
 )
 
 // i req: seed, The seed from which to derive the subseed from.

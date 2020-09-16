@@ -1,15 +1,15 @@
 package account
 
 import (
-	"github.com/iotaledger/iota.go/account/event"
-	"github.com/iotaledger/iota.go/account/store"
-	"github.com/iotaledger/iota.go/account/store/inmemory"
-	"github.com/iotaledger/iota.go/account/timesrc"
-	"github.com/iotaledger/iota.go/address"
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/account/event"
+	"github.com/muxxer/iota.go/account/store"
+	"github.com/muxxer/iota.go/account/store/inmemory"
+	"github.com/muxxer/iota.go/account/timesrc"
+	"github.com/muxxer/iota.go/address"
+	"github.com/muxxer/iota.go/api"
+	"github.com/muxxer/iota.go/bundle"
+	"github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/trinary"
 	"strings"
 	"sync"
 )

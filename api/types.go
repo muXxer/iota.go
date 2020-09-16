@@ -3,9 +3,9 @@ package api
 import (
 	"context"
 	"fmt"
-	"github.com/iotaledger/iota.go/bundle"
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/bundle"
+	. "github.com/muxxer/iota.go/consts"
+	. "github.com/muxxer/iota.go/trinary"
 	"time"
 )
 

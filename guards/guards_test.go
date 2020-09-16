@@ -1,8 +1,8 @@
 package guards_test
 
 import (
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/guards"
+	. "github.com/muxxer/iota.go/consts"
+	. "github.com/muxxer/iota.go/guards"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"strings"

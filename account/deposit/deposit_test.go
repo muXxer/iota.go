@@ -1,9 +1,9 @@
 package deposit_test
 
 import (
-	"github.com/iotaledger/iota.go/account/deposit"
-	"github.com/iotaledger/iota.go/checksum"
-	"github.com/iotaledger/iota.go/consts"
+	"github.com/muxxer/iota.go/account/deposit"
+	"github.com/muxxer/iota.go/checksum"
+	"github.com/muxxer/iota.go/consts"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/pkg/errors"

@@ -2,9 +2,9 @@
 package kerl
 
 import (
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/kerl/bigint"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/kerl/bigint"
+	. "github.com/muxxer/iota.go/trinary"
 	"github.com/pkg/errors"
 )
 

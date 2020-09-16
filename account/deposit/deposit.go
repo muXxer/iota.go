@@ -2,11 +2,11 @@ package deposit
 
 import (
 	"fmt"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/checksum"
-	"github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/curl"
-	. "github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/bundle"
+	"github.com/muxxer/iota.go/checksum"
+	"github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/curl"
+	. "github.com/muxxer/iota.go/trinary"
 	"github.com/pkg/errors"
 	"net/url"
 	"strconv"

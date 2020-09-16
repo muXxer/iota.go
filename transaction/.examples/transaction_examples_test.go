@@ -3,9 +3,9 @@ package transaction_examples_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/transaction"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/bundle"
+	"github.com/muxxer/iota.go/transaction"
+	"github.com/muxxer/iota.go/trinary"
 )
 
 // i req: trits, The Trits representation of the transaction.

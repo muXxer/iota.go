@@ -4,9 +4,9 @@
 package cl
 
 import (
-	"github.com/iotaledger/iota.go/curl"
-	"github.com/iotaledger/iota.go/transaction"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/curl"
+	"github.com/muxxer/iota.go/transaction"
+	"github.com/muxxer/iota.go/trinary"
 
 	"testing"
 	"time"

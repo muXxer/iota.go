@@ -7,8 +7,8 @@ package kerl
 import (
 	"math"
 
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/kerl/bigint"
+	. "github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/kerl/bigint"
 )
 
 const (

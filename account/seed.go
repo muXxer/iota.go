@@ -1,7 +1,7 @@
 package account
 
 import (
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/muxxer/iota.go/trinary"
 )
 
 // SeedProvider is a provider which provides a seed.

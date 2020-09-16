@@ -1,9 +1,9 @@
 package mam_test
 
 import (
-	"github.com/iotaledger/iota.go/curl"
-	. "github.com/iotaledger/iota.go/mam/v1"
-	. "github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/curl"
+	. "github.com/muxxer/iota.go/mam/v1"
+	. "github.com/muxxer/iota.go/trinary"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

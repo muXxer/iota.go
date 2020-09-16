@@ -1,9 +1,9 @@
 package integration_test
 
 import (
-	. "github.com/iotaledger/iota.go/api"
-	. "github.com/iotaledger/iota.go/api/integration/gocks"
-	. "github.com/iotaledger/iota.go/consts"
+	. "github.com/muxxer/iota.go/api"
+	. "github.com/muxxer/iota.go/api/integration/gocks"
+	. "github.com/muxxer/iota.go/consts"
 	"strings"
 
 	. "github.com/onsi/ginkgo"

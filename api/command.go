@@ -1,7 +1,7 @@
 package api
 
 import (
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/muxxer/iota.go/trinary"
 )
 
 // IRICommand defines a command name for IRI API calls.

@@ -3,12 +3,12 @@ package api
 import (
 	"strconv"
 
-	"github.com/iotaledger/iota.go/checksum"
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/guards"
-	. "github.com/iotaledger/iota.go/guards/validators"
-	"github.com/iotaledger/iota.go/pow"
-	. "github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/checksum"
+	. "github.com/muxxer/iota.go/consts"
+	. "github.com/muxxer/iota.go/guards"
+	. "github.com/muxxer/iota.go/guards/validators"
+	"github.com/muxxer/iota.go/pow"
+	. "github.com/muxxer/iota.go/trinary"
 )
 
 // AddNeighbors adds a list of neighbors to the connected IRI node.

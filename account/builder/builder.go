@@ -1,15 +1,15 @@
 package builder
 
 import (
-	"github.com/iotaledger/iota.go/account"
-	"github.com/iotaledger/iota.go/account/event"
-	"github.com/iotaledger/iota.go/account/plugins/promoter"
-	"github.com/iotaledger/iota.go/account/plugins/transfer/poller"
-	"github.com/iotaledger/iota.go/account/store"
-	"github.com/iotaledger/iota.go/account/timesrc"
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/account"
+	"github.com/muxxer/iota.go/account/event"
+	"github.com/muxxer/iota.go/account/plugins/promoter"
+	"github.com/muxxer/iota.go/account/plugins/transfer/poller"
+	"github.com/muxxer/iota.go/account/store"
+	"github.com/muxxer/iota.go/account/timesrc"
+	"github.com/muxxer/iota.go/api"
+	"github.com/muxxer/iota.go/consts"
+	. "github.com/muxxer/iota.go/trinary"
 	"time"
 )
 

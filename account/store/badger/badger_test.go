@@ -2,10 +2,10 @@ package badger_test
 
 import (
 	"fmt"
-	"github.com/iotaledger/iota.go/account/store"
-	badger_store "github.com/iotaledger/iota.go/account/store/badger"
-	"github.com/iotaledger/iota.go/transaction"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/account/store"
+	badger_store "github.com/muxxer/iota.go/account/store/badger"
+	"github.com/muxxer/iota.go/transaction"
+	"github.com/muxxer/iota.go/trinary"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"os"

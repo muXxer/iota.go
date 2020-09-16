@@ -1,9 +1,9 @@
 package checksum_test
 
 import (
-	. "github.com/iotaledger/iota.go/checksum"
-	. "github.com/iotaledger/iota.go/consts"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/muxxer/iota.go/checksum"
+	. "github.com/muxxer/iota.go/consts"
+	. "github.com/muxxer/iota.go/trinary"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/ginkgo/extensions/table"
 	. "github.com/onsi/gomega"

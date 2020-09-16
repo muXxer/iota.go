@@ -1,11 +1,11 @@
 package bundle_test
 
 import (
-	. "github.com/iotaledger/iota.go/bundle"
-	. "github.com/iotaledger/iota.go/consts"
-	"github.com/iotaledger/iota.go/converter"
-	"github.com/iotaledger/iota.go/transaction"
-	. "github.com/iotaledger/iota.go/trinary"
+	. "github.com/muxxer/iota.go/bundle"
+	. "github.com/muxxer/iota.go/consts"
+	"github.com/muxxer/iota.go/converter"
+	"github.com/muxxer/iota.go/transaction"
+	. "github.com/muxxer/iota.go/trinary"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"strings"

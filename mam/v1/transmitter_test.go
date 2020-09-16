@@ -5,11 +5,11 @@ import (
 	. "github.com/onsi/gomega"
 	"github.com/pkg/errors"
 
-	"github.com/iotaledger/iota.go/api"
-	"github.com/iotaledger/iota.go/bundle"
-	"github.com/iotaledger/iota.go/consts"
-	mam "github.com/iotaledger/iota.go/mam/v1"
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/muxxer/iota.go/api"
+	"github.com/muxxer/iota.go/bundle"
+	"github.com/muxxer/iota.go/consts"
+	mam "github.com/muxxer/iota.go/mam/v1"
+	"github.com/muxxer/iota.go/trinary"
 )
 
 var _ = Describe("Transmitter", func() {
